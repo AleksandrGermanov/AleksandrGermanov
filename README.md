@@ -1,11 +1,13 @@
-
-
 <img
 width="300"
 height="300"
 align="left"
 src="/img/GithubProfileOpening.png"></img>
-### Приветствую!
+<br>
+<br>
+<br>
+
+<h3 align="center"> Приветствую!</h3>
 <br>
 <br>
 Меня зовут Александр и я начинающий Java-разработчик. В декабре 2023 года окончил курс "Java-разработчик" на платформе "Яндекс.Практикум".
@@ -13,20 +15,18 @@ src="/img/GithubProfileOpening.png"></img>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ### Moй стек.
 <div align="center">
   
-<a href="">![java-se](https://img.shields.io/badge/java--se-maker?style=for-the-badge&logo=oracle&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fhibernate.org%2F)</a>
-<a href="">![spring](https://img.shields.io/badge/spring-maker?style=for-the-badge&logo=spring&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fspring.io%2F)</a>
-<a href="">![hibernate](https://img.shields.io/badge/Hibernate-maker?style=for-the-badge&logo=hibernate&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fhibernate.org%2F)</a>
-<a href="">![maven](https://img.shields.io/badge/maven-maker?style=for-the-badge&logo=apache&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fmaven.apache.org%2F)</a>
-<a href="">![postgresql](https://img.shields.io/badge/postgresql-maker?style=for-the-badge&logo=postgresql&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fwww.postgresql.org%2F)</a>
-<a href="">![docker](https://img.shields.io/badge/docker-maker?style=for-the-badge&logo=docker&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fwww.docker.com%2F)</a>
-<a href="">![junit](https://img.shields.io/badge/junit-maker?style=for-the-badge&logo=junit5&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fjunit.org%2Fjunit5%2F)</a>
+<a href="https://www.oracle.com/java/technologies/java-se-glance.html">![java-se](https://img.shields.io/badge/java--se-maker?style=for-the-badge&logo=oracle&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126))</a>
+<a href="https://spring.io/">![spring](https://img.shields.io/badge/spring-maker?style=for-the-badge&logo=spring&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126))</a>
+<a href="https://hibernate.org/">![hibernate](https://img.shields.io/badge/Hibernate-maker?style=for-the-badge&logo=hibernate&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126))</a>
+<a href="https://maven.apache.org/">![maven](https://img.shields.io/badge/maven-maker?style=for-the-badge&logo=apache&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126))</a>
+<a href="https://www.postgresql.org/">![postgresql](https://img.shields.io/badge/postgresql-maker?style=for-the-badge&logo=postgresql&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126))</a>
+<a href="https://www.docker.com/">![docker](https://img.shields.io/badge/docker-maker?style=for-the-badge&logo=docker&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126))</a>
+<a href="https://junit.org/junit5/">![junit](https://img.shields.io/badge/junit-maker?style=for-the-badge&logo=junit5&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126))</a>
 
 </div>
 
@@ -66,9 +66,6 @@ Web-приложение с собственным сервером, обмен�
 реализацией связного списка.<br>
 https://github.com/AleksandrGermanov/java-kanban
 
-### Еще немоного о себе
-Сейчас воспитываю дочку, работаю врачом, строю загородный дом. Люблю семью, футбол и сладкое.
-
 >[!TIP]
 >### Полезные книги
 > - К. Сьерра и Б. Бейтс – «Изучаем Java»
@@ -81,8 +78,6 @@ https://github.com/AleksandrGermanov/java-kanban
 
 >[!IMPORTANT]
 >### Полезные ссылки
-> -  https://docs.oracle.com
-> -  https://spring.io
 > -  https://www.baeldung.com
 > -  https://stackoverflow.com,
 > -  https://www.jboss.org
