@@ -25,6 +25,7 @@ src="/img/GithubProfileOpening.png"></img>
 ![maven](https://img.shields.io/badge/maven-maker?style=for-the-badge&logo=apache&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fmaven.apache.org%2F)
 ![postgresql](https://img.shields.io/badge/postgresql-maker?style=for-the-badge&logo=postgresql&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fwww.postgresql.org%2F)
 ![docker](https://img.shields.io/badge/docker-maker?style=for-the-badge&logo=docker&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fwww.docker.com%2F)
+![junit](https://img.shields.io/badge/junit-maker?style=for-the-badge&logo=junit5&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fjunit.org%2Fjunit5%2F)
 
 
 
