@@ -18,16 +18,17 @@ src="/img/GithubProfileOpening.png"></img>
 <br>
 
 ### Moй стек.
+<div align="center">
+  
+<a href="">![java-se](https://img.shields.io/badge/java--se-maker?style=for-the-badge&logo=oracle&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fhibernate.org%2F)</a>
+<a href="">![spring](https://img.shields.io/badge/spring-maker?style=for-the-badge&logo=spring&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fspring.io%2F)</a>
+<a href="">![hibernate](https://img.shields.io/badge/Hibernate-maker?style=for-the-badge&logo=hibernate&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fhibernate.org%2F)</a>
+<a href="">![maven](https://img.shields.io/badge/maven-maker?style=for-the-badge&logo=apache&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fmaven.apache.org%2F)</a>
+<a href="">![postgresql](https://img.shields.io/badge/postgresql-maker?style=for-the-badge&logo=postgresql&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fwww.postgresql.org%2F)</a>
+<a href="">![docker](https://img.shields.io/badge/docker-maker?style=for-the-badge&logo=docker&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fwww.docker.com%2F)</a>
+<a href="">![junit](https://img.shields.io/badge/junit-maker?style=for-the-badge&logo=junit5&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fjunit.org%2Fjunit5%2F)</a>
 
-![java-se](https://img.shields.io/badge/java--se-maker?style=for-the-badge&logo=oracle&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fhibernate.org%2F)
-![spring](https://img.shields.io/badge/spring-maker?style=for-the-badge&logo=spring&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fspring.io%2F)
-![hibernate](https://img.shields.io/badge/Hibernate-maker?style=for-the-badge&logo=hibernate&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fhibernate.org%2F)
-![maven](https://img.shields.io/badge/maven-maker?style=for-the-badge&logo=apache&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fmaven.apache.org%2F)
-![postgresql](https://img.shields.io/badge/postgresql-maker?style=for-the-badge&logo=postgresql&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fwww.postgresql.org%2F)
-![docker](https://img.shields.io/badge/docker-maker?style=for-the-badge&logo=docker&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fwww.docker.com%2F)
-![junit](https://img.shields.io/badge/junit-maker?style=for-the-badge&logo=junit5&logoColor=rgb(255%2C255%2C255)&labelColor=rgb(75%2C130%2C200)&color=rgb(39%2C77%2C126)&link=https%3A%2F%2Fjunit.org%2Fjunit5%2F)
-
-
+</div>
 
 
 ### Мои проекты.
