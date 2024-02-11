@@ -33,25 +33,21 @@ src="/img/GithubProfileOpening.png"></img>
 
 ### Мои проекты.
 
->[!NOTE]
->Вскоре здесь появятся проекты в рамках бесплатного интенсива от YLab (старт 24.01.2024), а пока я занимаюсь оформлением старых проектов репозитория.
-
 - Ноябрь 2023 - Декабрь 2023.<br>
 Сервис для объявления и посещения мероприятий (дипломный проект).<br>
 Разработка многомодульного web-приложения в рамках подготовленной спецификации
 OpenAPI 3.0/Swagger, разработка собственной функциональности с использованием
-SpringBoot, SpringData (JPA), J-unit, Mockito, Postgresql, SLF4J (Logback), Git(github), Postman,
+SpringBoot, SpringData (JPA), J-unit, Mockito, Postgresql, SLF4J (Logback), Postman,
 Docker Compose.<br>
 https://github.com/AleksandrGermanov/java-explore-with-me
 - Сентябрь 2023 - Ноябрь 2023. <br>
 Сервис сдачи вещей в аренду (scrum).<br>
 Разработка web-приложения с собственным шлюзом с использованием SpringBoot, SpringData
-(JPA), J-unit, Mockito, Postgresql, SLF4J (Logback), Git(github).<br>
+(JPA), J-unit, Mockito, Postgresql, SLF4J (Logback).<br>
 https://github.com/AleksandrGermanov/java-shareit
 - Июнь 2023 - Сентябрь 2023.<br>
 Сервис оценки и обсуждения фильмов (scrum, kanban).<br>
-Разработка web-приложения с использованием SpringBoot, SpringData (JDBC), Postgresql, SLF4J
-(Logback), Git(github).<br>
+Разработка web-приложения с использованием SpringBoot, SpringData (JDBC), H2, SLF4J (Logback).<br>
 https://github.com/AleksandrGermanov/java-filmorate<br>
 Часть функциональности реализована в рамках группового проекта. В зоне моей
 ответственности находились добавление оси изменений для режиссеров, комментарии. Также
