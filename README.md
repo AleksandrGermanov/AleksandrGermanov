@@ -85,6 +85,10 @@ https://github.com/AleksandrGermanov/java-kanban
 > -  https://habr.com/ru/feed
 > -  https://postgrespro.ru/education/books
 
+---
+
+Вы можете связаться со мной через [Telegram](https://t.me/alvlager "https://t.me/alvlager") или [по электронной почте](mailto:mailmate@yandex.ru "mailmate@yandex.ru").
+
 
 <!--
 **AleksandrGermanov/AleksandrGermanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
